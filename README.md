@@ -49,3 +49,4 @@ Hints
 <s> $500 Prize </s> CLAIMED
 ------
 The first submission that scores an error under 25% on the unlabeled set, will receive a $500 prize.
+ 
